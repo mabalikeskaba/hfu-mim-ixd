@@ -1,1 +1,0 @@
-# hfu-mim-idx-mabakaba
