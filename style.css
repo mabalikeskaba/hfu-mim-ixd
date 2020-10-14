@@ -1,0 +1,21 @@
+
+body {
+    background-color: #008A54;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px auto;
+    padding: 0px;
+}
+
+h3, h1 {
+    color: white;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+}
+
+.swot-list {
+    background-color: #E4CC37;
+    padding: 5px;
+}
