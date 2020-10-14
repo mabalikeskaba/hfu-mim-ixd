@@ -15,7 +15,15 @@ ul {
     list-style: none;
 }
 
+li {
+    padding: 1px;
+}
+
 .swot-list {
     background-color: #E4CC37;
     padding: 5px;
+}
+
+.main-menu {
+    margin: 5px;
 }
