@@ -19,11 +19,20 @@ li {
     padding: 1px;
 }
 
-.swot-list {
+.default-list {
     background-color: #E4CC37;
     padding: 5px;
 }
 
 .main-menu {
     margin: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #2191FB;
+}
+
+a:hover {
+  font-weight: bold;  
 }
